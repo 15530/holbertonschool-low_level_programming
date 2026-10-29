@@ -11,3 +11,4 @@ This project contains C programs about variables, conditions and loops.
 - 4-print_alphabt.c: prints the lowercase alphabet except q and e using putchar
 - 5-print_numbers.c: prints all single digit numbers of base 10
 - 6-print_numberz.c: prints all single digit numbers of base 10 using putchar and no char variable
+- 7-print_tebahpla.c: prints the lowercase alphabet in reverse using putchar
