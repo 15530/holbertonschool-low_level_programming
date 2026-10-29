@@ -8,3 +8,4 @@ This project contains C and shell tasks about compiling.
 - 2-assembler: generates the assembly code of a C file
 - 3-name: compiles a C file and creates an executable named cisfun
 - 4-puts.c: C program that prints a sentence using puts
+- 5-printf.c: C program that prints a sentence using printf
