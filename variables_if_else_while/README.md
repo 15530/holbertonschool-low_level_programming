@@ -5,3 +5,4 @@ This project contains C programs about variables, conditions and loops.
 ## Tasks
 
 - 0-positive_or_negative.c: prints whether a random number is positive, zero or negative
+- 1-last_digit.c: prints the last digit of a random number and compares it
