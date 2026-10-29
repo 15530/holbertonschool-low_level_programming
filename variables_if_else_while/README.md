@@ -9,3 +9,4 @@ This project contains C programs about variables, conditions and loops.
 - 2-print_alphabet.c: prints the alphabet in lowercase using putchar
 - 3-print_alphabets.c: prints the alphabet in lowercase then uppercase using putchar
 - 4-print_alphabt.c: prints the lowercase alphabet except q and e using putchar
+- 5-print_numbers.c: prints all single digit numbers of base 10
