@@ -1,3 +1,7 @@
-# Hello, World
+# Hello World
 
-This project contains introductory C programming tasks, including preprocessing, compilation, and basic output.
+This project contains C and shell tasks about compiling.
+
+## Tasks
+
+- 1-compiler: compiles a C file without linking
