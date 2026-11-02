@@ -14,3 +14,4 @@ This project contains C functions about functions and nested loops.
 - 7-print_diagonal.c: function that draws a diagonal line on the terminal
 - 8-print_square.c: function that prints a square
 - 9-fizz_buzz.c: program that prints the numbers from 1 to 100 with Fizz, Buzz and FizzBuzz
+- 10-print_triangle.c: function that prints a triangle
