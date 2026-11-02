@@ -12,3 +12,4 @@ This project contains C functions about functions and nested loops.
 - 5-more_numbers.c: function that prints 10 times the numbers from 0 to 14
 - 6-print_line.c: function that draws a straight line in the terminal
 - 7-print_diagonal.c: function that draws a diagonal line on the terminal
+- 8-print_square.c: function that prints a square
