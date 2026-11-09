@@ -11,4 +11,5 @@ This project contains C functions that use dynamic memory allocation.
 
 Files are compiled on Ubuntu with:
 - `1-strdup.c`: function that returns a pointer to a newly allocated copy of a string.
+- `2-str_concat.c`: function that concatenates two strings into newly allocated memory.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
