@@ -10,5 +10,5 @@ This project contains C functions that use dynamic memory allocation.
 ## Compilation
 
 Files are compiled on Ubuntu with:
-
+- `1-strdup.c`: function that returns a pointer to a newly allocated copy of a string.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
