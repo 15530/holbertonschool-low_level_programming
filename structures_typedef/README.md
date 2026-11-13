@@ -10,4 +10,5 @@ This project contains C code about structures and typedef.
 
 Files are compiled on Ubuntu with:
 - `1-init_dog.c`: function that initializes a variable of type struct dog.
+- `2-print_dog.c`: function that prints a struct dog.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
