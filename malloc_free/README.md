@@ -13,4 +13,5 @@ Files are compiled on Ubuntu with:
 - `1-strdup.c`: function that returns a pointer to a newly allocated copy of a string.
 - `2-str_concat.c`: function that concatenates two strings into newly allocated memory.
 - `3-alloc_grid.c`: function that returns a pointer to a 2 dimensional array of integers.
+- `4-free_grid.c`: function that frees a 2 dimensional grid created by alloc_grid.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
