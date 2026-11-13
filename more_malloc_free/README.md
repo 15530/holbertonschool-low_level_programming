@@ -10,5 +10,5 @@ This project contains C functions that use dynamic memory allocation.
 ## Compilation
 
 Files are compiled on Ubuntu with:
-
+- `1-string_nconcat.c`: function that concatenates two strings, using at most n bytes of the second.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
