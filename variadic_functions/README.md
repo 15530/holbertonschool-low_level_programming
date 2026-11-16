@@ -12,4 +12,5 @@ This project contains C functions that take a variable number of arguments.
 Files are compiled on Ubuntu with:
 - `1-print_numbers.c`: function that prints numbers, followed by a new line.
 - `2-print_strings.c`: function that prints strings, followed by a new line.
+- `3-print_all.c`: function that prints anything, followed by a new line.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
