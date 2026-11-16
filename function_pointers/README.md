@@ -12,4 +12,5 @@ This project contains C functions that use pointers to functions.
 Files are compiled on Ubuntu with:
 - `1-array_iterator.c`: function that executes a function on each element of an array.
 - `2-int_index.c`: function that searches for an integer using a comparison function.
+- `3-calc.h`, `3-op_functions.c`, `3-get_op_func.c`, `3-main.c`: calc program that performs simple operations.
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89
