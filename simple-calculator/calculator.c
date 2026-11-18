@@ -8,7 +8,7 @@
 int main(void)
 {
 	int choice;
-	int a, b;
+	double a, b;
 
 	printf("Simple Calculator\n");
 
@@ -36,22 +36,23 @@ int main(void)
 			continue;
 		}
 
-		if (choice >= 1 && choice <= 3)
-		{
-			printf("A: ");
-			if (scanf("%d", &a) != 1)
-				break;
-			printf("B: ");
-			if (scanf("%d", &b) != 1)
-				break;
+		printf("A: ");
+		if (scanf("%lf", &a) != 1)
+			break;
+		printf("B: ");
+		if (scanf("%lf", &b) != 1)
+			break;
 
-			if (choice == 1)
-				printf("Result: %d\n", a + b);
-			else if (choice == 2)
-				printf("Result: %d\n", a - b);
-			else
-				printf("Result: %d\n", a * b);
-		}
+		if (choice == 1)
+			printf("Result: %g\n", a + b);
+		else if (choice == 2)
+			printf("Result: %g\n", a - b);
+		else if (choice == 3)
+			printf("Result: %g\n", a * b);
+		else if (b == 0)
+			printf("Error: division by zero\n");
+		else
+			printf("Result: %g\n", a / b);
 	}
 
 	return (0);
