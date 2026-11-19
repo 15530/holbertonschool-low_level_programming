@@ -11,3 +11,4 @@ This project covers recursion in C: functions that call themselves, without loop
 ## Author
 
 Ousmane
+- 2-strlen_recursion.c: _strlen_recursion returns the length of a string
