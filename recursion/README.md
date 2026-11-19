@@ -15,3 +15,4 @@ Ousmane
 - 3-factorial.c: factorial returns the factorial of a number (-1 if negative)
 - 4-pow_recursion.c: _pow_recursion returns x raised to the power of y (-1 if y is negative)
 - 5-sqrt_recursion.c: _sqrt_recursion returns the natural square root of a number (-1 if none)
+- 6-is_prime_number.c: is_prime_number returns 1 if a number is prime, 0 otherwise
