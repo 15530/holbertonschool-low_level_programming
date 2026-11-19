@@ -13,3 +13,4 @@ This project covers recursion in C: functions that call themselves, without loop
 Ousmane
 - 2-strlen_recursion.c: _strlen_recursion returns the length of a string
 - 3-factorial.c: factorial returns the factorial of a number (-1 if negative)
+- 4-pow_recursion.c: _pow_recursion returns x raised to the power of y (-1 if y is negative)
