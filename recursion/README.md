@@ -14,3 +14,4 @@ Ousmane
 - 2-strlen_recursion.c: _strlen_recursion returns the length of a string
 - 3-factorial.c: factorial returns the factorial of a number (-1 if negative)
 - 4-pow_recursion.c: _pow_recursion returns x raised to the power of y (-1 if y is negative)
+- 5-sqrt_recursion.c: _sqrt_recursion returns the natural square root of a number (-1 if none)
